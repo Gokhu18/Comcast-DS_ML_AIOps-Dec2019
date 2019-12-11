@@ -4,3 +4,7 @@ WIP_Material/*
 *pptx*
 *ppt*
 *checkpoint.ipynb
+PracticalExercise/data/*
+PracticalExercise/autoML/*
+
+PracticalExercise/*.csv
